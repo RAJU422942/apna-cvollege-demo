@@ -1,2 +1,3 @@
-# apna-cvollege-demo
+# apna-college-demo
  this is my first git repository
+ Author raju kumar
